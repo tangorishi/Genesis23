@@ -117,13 +117,13 @@ export default function Home() {
        <Stack minH={"80vh"} direction={{ base: "column", md: "row" }}></Stack>
         <Stat />
         </Hide>
-        <Box bgColor={"white"}>
+        <Box bgColor={"white"} id={"events"}>
           <Text fontSize={{ base: "3xl", md: "4xl", lg: "5xl" }}
                 letterSpacing={5.5}
                 backgroundColor={"#fff"}
                 color={"black"}
                 textAlign={"center"}
-                padding={"3rem 0 0.1rem 0"}><b>Our Events</b></Text>
+                padding={"5rem 0 0.1rem 0"}><b>Our Events</b></Text>
         <Timeline />
         </Box>
         <Stack>

@@ -11,6 +11,7 @@ import {
   Collapse,
   ChakraProvider,
   theme,
+  Link,
 } from "@chakra-ui/react";
 import { MdMenu, MdClose } from "react-icons/md";
 import NextLink from "next/link";
@@ -39,7 +40,8 @@ const NavLinks = ({ closeMenu }) => (
         HOME
       </Text>
       </NavLink> 
-      <NavLink to="/events" onClick={closeMenu}>
+      <NavLink to="/#events" onClick={closeMenu}>
+        {/* <Link href="/#events"/> */}
       <Text
         fontSize={["md", "md", "md", "md", "md"]}
         fontWeight={"800"}
@@ -55,7 +57,8 @@ const NavLinks = ({ closeMenu }) => (
       >
         EVENTS
       </Text> 
-      </NavLink> 
+      </NavLink>
+      
      {/*<NavLink to="/sponsors" onClick={closeMenu}>
       <Text
         fontSize={["md", "md", "md", "md", "md"]}
