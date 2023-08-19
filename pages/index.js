@@ -45,6 +45,7 @@ export default function Home() {
       <Head>
         <title>GENESIS - IEEE MUJ</title>
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
+        <link rel="icon" href="./genesis-logo-only.ico" sizes="any" />
       </Head>
       <Navbar />
       <Box>
