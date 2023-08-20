@@ -32,6 +32,7 @@ import Stat from "../components/Stat";
 import Timeline from "../components/Timeline";
 import Speaker from "../components/Speaker"
 import FadeInUp from "../components/Anim/FadeInUp";
+import FaviCon from "../pages/public/genesis-logo-only.ico";
  { /*import FadeInUp from "../components/Anim/FadeInUp"; */}
 export default function Home() {
   const { isOpen, onOpen, onClose } = useDisclosure();
@@ -45,7 +46,7 @@ export default function Home() {
       <Head>
         <title>GENESIS - IEEE MUJ</title>
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
-        <link rel="icon" href="./genesis-logo-only.ico" sizes="any" />
+        <link rel="icon" href="../pages/public/genesis-logo-only.ico" />
       </Head>
       <Navbar />
       <Box>

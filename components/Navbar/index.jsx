@@ -30,7 +30,7 @@ const NavLinks = ({ closeMenu }) => (
         p={"4"}
         pt={"8"}
         letterSpacing={8.0}
-        backgroundColor= {"#080c2c"}        
+        backgroundColor= {"rgba(0,0,0,0)"}        
         px={"3rem"}
         color={"#c3c7c4"}       
         _hover={{
@@ -47,7 +47,7 @@ const NavLinks = ({ closeMenu }) => (
         fontWeight={"800"}
         p={"4"}
         pt={"8"}
-        backgroundColor={"#080c2c"}        
+        backgroundColor={"rgba(0,0,0,0)"}        
         px={"3rem"}
         letterSpacing={8.0}
         color={"#c3c7c4"}        
@@ -83,7 +83,7 @@ const NavLinks = ({ closeMenu }) => (
         p={"4"}
         pt={"8"}
         ml="auto"
-        backgroundColor={"#080c2c"}        
+        backgroundColor={"rgba(0,0,0,0)"}        
         px={"3rem"}
         letterSpacing={8.0}
         color={"#c3c7c4"}        
@@ -122,7 +122,7 @@ const Navbar = () => {
       <Box
         position={"fixed"}
         w={"100vw"}
-        css={{ backgroundColor: "#080c2c"}}
+        css={{ backgroundColor: "rgba(0,0,0,0)"}}
         zIndex={"1"}
         pb={5}
         paddingBottom={"10px"}
