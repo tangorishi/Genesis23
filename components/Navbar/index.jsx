@@ -12,6 +12,8 @@ import {
   ChakraProvider,
   theme,
   Link,
+  Hide,
+  Show,
 } from "@chakra-ui/react";
 import { MdMenu, MdClose } from "react-icons/md";
 import NextLink from "next/link";
@@ -19,6 +21,7 @@ import NextImage from "next/image";
 import LogoNew from "../../pages/public/imgs/genesis-logo.png";
 
 import NavLink from "./NavLink";
+import { useEffect, useState } from "react";
 // import navlogo from "./../../public/imgs/navlogo.jpeg";
 
 const NavLinks = ({ closeMenu }) => (
@@ -78,6 +81,7 @@ const NavLinks = ({ closeMenu }) => (
       </NavLink> */}  
     <NavLink to="/team" onClick={closeMenu}>
       <Text
+        color={"#080c2c"}
         fontSize={["md", "md", "md", "md", "md"]}
         fontWeight={"800"}
         p={"4"}
@@ -115,14 +119,33 @@ const NavLinks = ({ closeMenu }) => (
 );
 
 const Navbar = () => {
+  const [scrolled, setScrolled] = useState(false);
+
+  useEffect(()=>{
+    const handleScroll=()=>{
+      if(window.scrollY >=600){
+        setScrolled(true);
+      } else {
+        setScrolled(false);
+      }
+    };
+
+    window.addEventListener('scroll', handleScroll);
+
+    return ()=>{
+      window.removeEventListener('scroll', handleScroll);
+    };
+  }, []);
+
   const { isOpen, onOpen, onClose } = useDisclosure();
 
   return (
     <ChakraProvider theme={theme}>
+      <Show below="lg">
       <Box
         position={"fixed"}
         w={"100vw"}
-        css={{ backgroundColor: "rgba(0,0,0,0)"}}
+        css={{ backgroundColor: "#080c2c"}}
         zIndex={"1"}
         pb={5}
         paddingBottom={"10px"}
@@ -205,6 +228,96 @@ const Navbar = () => {
           </Box>
         </Collapse>
       </Box>
+      </Show>
+      <Hide below="lg">
+      <Box
+        position={"fixed"}
+        w={"100vw"}
+        css={{ backgroundColor: scrolled ? "#080c2c":"rgba(0,0,0,0.5)"}}
+        zIndex={"1"}
+        pb={5}
+        paddingBottom={"10px"}
+      >
+        <Flex
+          h={16}
+          align="space-between"
+        >
+          <NextLink href="/" passHref>
+            {/* <Text
+              fontSize={["lg", "xl", "2xl", "3xl", "4xl"]}
+              fontWeight={"800"}
+              p={"4"}
+              pb={"6vh"}
+              letterSpacing={8.0}
+              color={"#c3c7c4"}
+              bgColor={"#080c2c"}
+              // bgColor={"gray.900"}
+              size={"md"}
+              cursor={"pointer"}
+            >
+              GENESIS 2.0
+            </Text> */}
+            <NextImage src={LogoNew} alt="Genesis Logo" height={50} width={220} />
+          </NextLink>
+          <Spacer />
+          <HStack as="nav" spacing={4} display={{ base: "none", xl: "flex" }}>
+            <NavLinks />
+          </HStack>
+          <Spacer />
+          <Spacer />
+          <IconButton
+            bgColor={"#080c2c"}
+            variant="ghost"
+            color="white"
+            borderRadius="0"
+            p={"4"}
+            pb={"6vh"}
+            size="lg"
+            icon={
+              isOpen ? (
+                <Icon as={MdClose} fontSize={"4xl"} color={"white"} />
+              ) : (
+                <Icon as={MdMenu} fontSize={"4xl"} color={"white"} />
+              )
+            }
+            aria-label="Open Menu"
+            display={{ xl: "none" }}
+            onClick={isOpen ? onClose : onOpen}
+            _hover={{
+              textDecoration: "none",
+              borderRadius: "50",
+            }}
+            _active={{
+              bgColor: "transparent",
+            }}
+            _focus={{
+              shadow: "none",
+              border: "none",
+            }}
+          />
+        </Flex>
+        <Collapse in={isOpen} animateOpacity>
+          <Box
+            p={4}
+            bgColor="brand.700"
+            width="100%"
+            height="calc(100vh - 40px)"
+            display={{ xl: "none" }}
+          >
+            <Stack
+              as="nav"
+              spacing={10}
+              alignItems="right"
+              justify="right"
+              height="85%"
+            >
+              <NavLinks closeMenu={onClose} />
+            </Stack>
+          </Box>
+        </Collapse>
+      </Box>
+      </Hide>
+      
     </ChakraProvider>
   );
 };
