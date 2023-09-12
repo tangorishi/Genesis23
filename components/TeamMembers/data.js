@@ -149,17 +149,17 @@ const members = [
      image:
        "https://images.prismic.io/ieeemuj/f809b035-ebef-4d34-81b7-6a46693f214f_Anoushka+Goyal.JPG?auto=compress,format",
    },
-   {
-     name: "Atul Raj Sharma",
-     position: "Director",
-     team: "EC",
-     behance:"",
-     github:"",
-     linkedin:"",
-     instagram:"",
-     image:
-       "https://images.prismic.io/ieeemuj/59f97e47-ff20-4c66-8306-90568ab88cbb_Atul+Raj+Sharma_+Head+of+Programs_.jpg?auto=compress,format",
-   },
+   // {
+   //   name: "Atul Raj Sharma",
+   //   position: "Director",
+   //   team: "EC",
+   //   behance:"",
+   //   github:"",
+   //   linkedin:"",
+   //   instagram:"",
+   //   image:
+   //     "https://images.prismic.io/ieeemuj/59f97e47-ff20-4c66-8306-90568ab88cbb_Atul+Raj+Sharma_+Head+of+Programs_.jpg?auto=compress,format",
+   // },
    {
      name: "Avanya Sagar",
      position: "Director",
