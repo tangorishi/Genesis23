@@ -3,27 +3,60 @@
 const members = [
 
    {
-     name: "Sriansh Raj",
-     position: "Convener",
+     name: "Dr Sandeep Chaurasia",
+     position: "Director SCSE",
      team: "scse",
      behance:"",
      github:"",
      linkedin:"",
      instagram:"",
      image:
-       "https://images.prismic.io/ieeemuj/5c96bb42-fab5-47ec-9d8f-6706468145dc_Sriansh+Raj_head+of+Promotions.png?auto=compress,format",
+       "https://images.prismic.io/ieeemuj/ff340fd3-ebdb-462f-9bad-629931fbda14_Director+Pic+copy.jpg?auto=compress,format",
    },
 
   {
-     name: "Sriansh Raj",
-     position: "Convener",
+     name: "Dr Neha Chaudhary",
+     position: "HOD CSE",
      team: "scse",
      behance:"",
      github:"",
      linkedin:"",
      instagram:"",
      image:
-       "https://images.prismic.io/ieeemuj/5c96bb42-fab5-47ec-9d8f-6706468145dc_Sriansh+Raj_head+of+Promotions.png?auto=compress,format",
+       "https://images.prismic.io/ieeemuj/58ac5f52-21c1-4c8d-acf2-443c5da1b13f_Neha+Maam+copy.jpg?auto=compress,format",
+   },
+  {
+     name: "Dr Mahesh Jangid",
+     position: "Faculty Coordinator",
+     team: "scse",
+     behance:"",
+     github:"",
+     linkedin:"",
+     instagram:"",
+     image:
+       "https://images.prismic.io/ieeemuj/64585e6a-3617-4ff0-9668-4754b233c7ef_Mahesh_Jangid.jpg?auto=compress,format",
+   },
+  {
+     name: "Dr Sunita Singhal",
+     position: "Faculty Coordinator",
+     team: "scse",
+     behance:"",
+     github:"",
+     linkedin:"",
+     instagram:"",
+     image:
+       "https://images.prismic.io/ieeemuj/cca2359e-102b-4530-94ee-5a0265f3c32c_sunita_photo_1.jpg?auto=compress,format",
+   },
+  {
+     name: "Dr Dinesh Yadav",
+     position: "Faculty Coordinator",
+     team: "scse",
+     behance:"",
+     github:"",
+     linkedin:"",
+     instagram:"",
+     image:
+       "https://images.prismic.io/ieeemuj/65379e8b-198c-4d7e-ad60-17873c088cf0_Dinesh+Yadav.jpg?auto=compress,format",
    },
 
   {
