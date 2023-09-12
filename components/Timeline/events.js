@@ -4,7 +4,7 @@ const events = [
     redirect: "11",
     image:
       "https://images.prismic.io/ieeemuj/bf314cf8-b946-473c-95cd-2cc1477925ad_Ballistic+2.0.png?auto=compress,format",
-    title: "Ballistic 4.0",
+    title: "Breacout 4.0",
     desc: "Join BREACOUT 4.0, part of GENESIS 3.0, for an epic Marvel-themed treasure hunt! Gather a team of four and tackle cryptic clues across our campus. Test your problem-solving and teamwork for a chance to win 25,000 INR and more!",
     s_desc: "Join BREACOUT 4.0, part of GENESIS 3.0, for an epic Marvel-themed treasure hunt! Gather a team of four and tackle cryptic clues across our campus. Test your problem-solving and teamwork for a chance to win 25,000 INR and more!",
     dates: "23rd September",
@@ -20,7 +20,7 @@ const events = [
     keys:"2",
     redirect: "22",
     image:
-      "https://images.prismic.io/ieeemuj/a43d1f95-ce1e-4f59-88ce-b87e17305804_CODE-IT-ON.png?auto=compress,format",
+      "https://images.prismic.io/ieeemuj/55435d5b-1b42-4cdb-9e4a-127c04a67ec5_Poster+Digital+Graffiti.png?auto=compress,format",
     title: "DIGITAL GRAFFITI",
     desc: "Participate in our creative digital endeavor, a main event designed to tap into your artistic imagination. Here's how it works: We'll provide you with a proverb or phrase, and your task is to express your interpretation through a unique graffiti creation. Alongside your artwork, craft a concise paragraph describing the inspiration behind your piece. Infuse a touch of GENESIS into your graffiti to tie it into our event theme. Plus, it's a platform-independent competition, so you can showcase your talent using any digital platform of your choice. Get ready to let your creativity run wild!",
     s_desc:"Participate in our creative digital endeavor, a main event designed to tap into your artistic imagination. Here's how it works: We'll provide you with a proverb or phrase, and your task is to express your interpretation through a unique graffiti creation. Alongside your artwork, craft a concise paragraph describing the inspiration behind your piece. Infuse a touch of GENESIS into your graffiti to tie it into our event theme. Plus, it's a platform-independent competition, so you can showcase your talent using any digital platform of your choice. Get ready to let your creativity run wild!",
@@ -37,7 +37,7 @@ const events = [
     keys:"3",
     redirect: "33",
     image:
-      "https://images.prismic.io/ieeemuj/717a62f9-86f5-49d7-9211-9e7f5d00eea3_Clone+the+App.png?auto=compress,format",
+      "https://images.prismic.io/ieeemuj/0036a184-0f3c-4ffb-b317-9c52bf3ac0e1_Lights+camera+auction+%283%29.png?auto=compress,format",
     title: "Lights, Camera, Auction!",
     desc: "Lights, Camera, Auction! Is where you can prove that you’re armed with a creative and strategic mind. It is a bid, buy, and sell competition, where the participants first place bids on their choice of items, and then try to find creative ways to sell said items to the judges.Lights, Camera, Auction! Allows participants into a unique blend of circumstances designed to stress-test their creativity.",
     s_desc:"Lights, Camera, Auction! Is where you can prove that you’re armed with a creative and strategic mind. It is a bid, buy, and sell competition, where the participants first place bids on their choice of items, and then try to find creative ways to sell said items to the judges.Lights, Camera, Auction! Allows participants into a unique blend of circumstances designed to stress-test their creativity.",
@@ -71,7 +71,7 @@ const events = [
     keys:"5",
     redirect: "55",
     image:
-      "https://images.prismic.io/ieeemuj/523260dd-0b34-4e3c-be59-8ab28808e162_BlogVerse.png?auto=compress,format",
+      "https://images.prismic.io/ieeemuj/dcdb91b1-f007-41f5-9d12-89a470722616_CSSCombatFinal+%281%29.jpg?auto=compress,format",
     title: "CSS COMBAT",
     desc: "CSS combat is a competitive coding challenge in which participants showcase their CSS skills by solving design-related problems or creating specific web design elements efficiently and effectively. In this we have three rounds. The first two involve replicating designs, while the final round requires them to create a personal portfolio website, showcasing their CSS skills.",
     s_desc: "CSS combat is a competitive coding challenge in which participants showcase their CSS skills by solving design-related problems or creating specific web design elements efficiently and effectively. In this we have three rounds. The first two involve replicating designs, while the final round requires them to create a personal portfolio website, showcasing their CSS skills.",
@@ -106,7 +106,7 @@ const events = [
     redirect: "77",
     image:
       "https://images.prismic.io/ieeemuj/6bb7e2e5-f232-4a73-be6f-fd55d76cd749_thebigshot.png?auto=compress,format",
-    title: "Ballistic",
+    title: "Ballistic 3.0",
     desc: "Ballistic is where you show that the controller is just an extension of your being. Show-of your reaction times, and demonstrate unparalleled precision. With Mortal Kombat and FIFA, may ruthless be your fatalities, and your passes brim with finesse.",
     s_desc: "Ballistic is where you show that the controller is just an extension of your being. Show-of your reaction times, and demonstrate unparalleled precision. With Mortal Kombat and FIFA, may ruthless be your fatalities, and your passes brim with finesse.",
     dates: "20th September(Round 0), 23rd September and 24th September(Final Rounds)",
