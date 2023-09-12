@@ -2,6 +2,19 @@
 
 const members = [
 
+
+  {
+     name: "Sriansh Raj",
+     position: "Convener",
+     team: "ECcc",
+     behance:"",
+     github:"",
+     linkedin:"",
+     instagram:"",
+     image:
+       "https://images.prismic.io/ieeemuj/5c96bb42-fab5-47ec-9d8f-6706468145dc_Sriansh+Raj_head+of+Promotions.png?auto=compress,format",
+   },
+
   {
      name: "Sonakshi Arora",
      position: "Convener ",
@@ -13,17 +26,7 @@ const members = [
      image:
        "https://images.prismic.io/ieeemuj/427f1314-bfeb-4b52-8e3f-9bf25d7d359a_Sonakshi+Arora+-+Chairperson%281%29.jpg?auto=compress,format",
    },
-   {
-     name: "Sriansh Raj",
-     position: "Convener",
-     team: "ECcc",
-     behance:"",
-     github:"",
-     linkedin:"",
-     instagram:"",
-     image:
-       "https://images.prismic.io/ieeemuj/5c96bb42-fab5-47ec-9d8f-6706468145dc_Sriansh+Raj_head+of+Promotions.png?auto=compress,format",
-   },
+   
    {
      name: "Yuvraj Vasudeva",
      position: "Convener",
