@@ -106,16 +106,27 @@ const members = [
        "https://images.prismic.io/ieeemuj/7117df8d-d3be-4461-82f5-a6e7d3dca21a_Human+Resource+director+.JPG?auto=compress,format",
    },
    {
-     name: "Aditya Pandey",
+     name: "Atul Raj Sharma",
      position: "Director",
-     team: "ECcc",
+     team: "EC",
      behance:"",
      github:"",
      linkedin:"",
      instagram:"",
      image:
-       "https://images.prismic.io/ieeemuj/cb2112fd-a2bf-4a2b-9999-3a3dc3f7402e_Aditya+Pandey_Joint+Head+of+Promotions.jpg?auto=compress,format",
-   },
+       "https://images.prismic.io/ieeemuj/59f97e47-ff20-4c66-8306-90568ab88cbb_Atul+Raj+Sharma_+Head+of+Programs_.jpg?auto=compress,format",
+   },
+   // {
+   //   name: "Aditya Pandey",
+   //   position: "Director",
+   //   team: "ECcc",
+   //   behance:"",
+   //   github:"",
+   //   linkedin:"",
+   //   instagram:"",
+   //   image:
+   //     "https://images.prismic.io/ieeemuj/cb2112fd-a2bf-4a2b-9999-3a3dc3f7402e_Aditya+Pandey_Joint+Head+of+Promotions.jpg?auto=compress,format",
+   // },
    {
      name: "Anish Ubriani",
      position: "Director",
