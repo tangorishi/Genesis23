@@ -33,20 +33,37 @@ const events = [
     type: 'type',
     status: 'upcoming'
   },
-  {
+  // {
+  //   keys:"6",
+  //   redirect: "66",
+  //   image:
+  //     "https://images.prismic.io/ieeemuj/0036a184-0f3c-4ffb-b317-9c52bf3ac0e1_Lights+camera+auction+%283%29.png?auto=compress,format",
+  //   title: "Lights, Camera, Auction!",
+  //   desc: "Lights, Camera, Auction! Is where you can prove that you’re armed with a creative and strategic mind. It is a bid, buy, and sell competition, where the participants first place bids on their choice of items, and then try to find creative ways to sell said items to the judges.Lights, Camera, Auction! Allows participants into a unique blend of circumstances designed to stress-test their creativity.",
+  //   s_desc:"Lights, Camera, Auction! Is where you can prove that you’re armed with a creative and strategic mind. It is a bid, buy, and sell competition, where the participants first place bids on their choice of items, and then try to find creative ways to sell said items to the judges.Lights, Camera, Auction! Allows participants into a unique blend of circumstances designed to stress-test their creativity.",
+  //   dates: "22nd sept to 23rd sept",
+  //   time: "11pm to 6am",
+  //   team_size: "3",
+  //   prize: "Rs. 25,000",
+  //   form: "https://forms.gle/J6WUmXqvm6bhqd8r8",
+  //   venue: "Campus",
+  //   type: 'type',
+  //   status: 'upcoming'
+  // },
+   {
     keys:"6",
     redirect: "66",
     image:
-      "https://images.prismic.io/ieeemuj/0036a184-0f3c-4ffb-b317-9c52bf3ac0e1_Lights+camera+auction+%283%29.png?auto=compress,format",
-    title: "Lights, Camera, Auction!",
-    desc: "Lights, Camera, Auction! Is where you can prove that you’re armed with a creative and strategic mind. It is a bid, buy, and sell competition, where the participants first place bids on their choice of items, and then try to find creative ways to sell said items to the judges.Lights, Camera, Auction! Allows participants into a unique blend of circumstances designed to stress-test their creativity.",
-    s_desc:"Lights, Camera, Auction! Is where you can prove that you’re armed with a creative and strategic mind. It is a bid, buy, and sell competition, where the participants first place bids on their choice of items, and then try to find creative ways to sell said items to the judges.Lights, Camera, Auction! Allows participants into a unique blend of circumstances designed to stress-test their creativity.",
-    dates: "22nd sept to 23rd sept",
+      "https://images.prismic.io/ieeemuj/4a220d7f-9776-4ce5-8755-59ae0051490b_Networking+Night.png?auto=compress,format",
+    title: "Network With WIE ",
+    desc: "Network with WIE is an exclusive girls event designed to foster a strong sense of community while providing incredible opportunities for networking. We've got a lineup of more than 10 thrilling mini games, including jamming sessions to kick off the night. The event offers an excellent platform for networking, allowing attendees to connect and interact with peers from various academic backgrounds.Notably, there will be a career talk featuring seniors who have successfully completed internships at prestigious companies.The night kicks off with a speed networking session, followed by Techno Trivia and Pictionary challenges. Action Relay and 'Journey to the Heart' offer exciting experiences.In summary, this event is an opportunity to extend your college experience beyond the ordinary, forging connections, gaining insights, and indulging in an array of entertaining activities.",
+    s_desc: "Network with WIE is an exclusive girls event designed to foster a strong sense of community while providing incredible opportunities for networking. We've got a lineup of more than 10 thrilling mini games, including jamming sessions to kick off the night. The event offers an excellent platform for networking, allowing attendees to connect and interact with peers from various academic backgrounds.Notably, there will be a career talk featuring seniors who have successfully completed internships at prestigious companies.The night kicks off with a speed networking session, followed by Techno Trivia and Pictionary challenges. Action Relay and 'Journey to the Heart' offer exciting experiences.In summary, this event is an opportunity to extend your college experience beyond the ordinary, forging connections, gaining insights, and indulging in an array of entertaining activities.",
+    dates: "23rd September",
     time: "11pm to 6am",
-    team_size: "3",
-    prize: "Rs. 25,000",
-    form: "https://forms.gle/J6WUmXqvm6bhqd8r8",
-    venue: "Campus",
+    team_size: "1",
+    prize: "Gifts in Techno Trivia",
+    form: "https://forms.gle/1ZerkQ4BbDhyaQGo7",
+    venue: "105 AB1 with three other rooms",
     type: 'type',
     status: 'upcoming'
   },
@@ -84,23 +101,7 @@ const events = [
     type: 'type',
     status: 'upcoming'
   },
-  {
-    keys:"3",
-    redirect: "33",
-    image:
-      "https://images.prismic.io/ieeemuj/4a220d7f-9776-4ce5-8755-59ae0051490b_Networking+Night.png?auto=compress,format",
-    title: "Network With WIE ",
-    desc: "Network with WIE is an exclusive girls event designed to foster a strong sense of community while providing incredible opportunities for networking. We've got a lineup of more than 10 thrilling mini games, including jamming sessions to kick off the night. The event offers an excellent platform for networking, allowing attendees to connect and interact with peers from various academic backgrounds.Notably, there will be a career talk featuring seniors who have successfully completed internships at prestigious companies.The night kicks off with a speed networking session, followed by Techno Trivia and Pictionary challenges. Action Relay and 'Journey to the Heart' offer exciting experiences.In summary, this event is an opportunity to extend your college experience beyond the ordinary, forging connections, gaining insights, and indulging in an array of entertaining activities.",
-    s_desc: "Network with WIE is an exclusive girls event designed to foster a strong sense of community while providing incredible opportunities for networking. We've got a lineup of more than 10 thrilling mini games, including jamming sessions to kick off the night. The event offers an excellent platform for networking, allowing attendees to connect and interact with peers from various academic backgrounds.Notably, there will be a career talk featuring seniors who have successfully completed internships at prestigious companies.The night kicks off with a speed networking session, followed by Techno Trivia and Pictionary challenges. Action Relay and 'Journey to the Heart' offer exciting experiences.In summary, this event is an opportunity to extend your college experience beyond the ordinary, forging connections, gaining insights, and indulging in an array of entertaining activities.",
-    dates: "23rd September",
-    time: "11pm to 6am",
-    team_size: "1",
-    prize: "Gifts in Techno Trivia",
-    form: "https://forms.gle/1ZerkQ4BbDhyaQGo7",
-    venue: "105 AB1 with three other rooms",
-    type: 'type',
-    status: 'upcoming'
-  },
+ 
   {
     keys:"7",
     redirect: "77",
