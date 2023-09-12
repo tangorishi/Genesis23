@@ -1615,6 +1615,19 @@ const members = [
      image:
        "https://images.prismic.io/ieeemuj/fd834d4b-9984-42d7-bac2-2a4470ab5100_Suryansh_jain.jpeg?auto=compress,format",
    },
+
+  {
+     name: "Ayush Agrawal",
+     position: "",
+     team: "CCmedia",
+     behance:"",
+     github:"",
+     linkedin:"",
+     instagram:"",
+     image:
+       "https://images.prismic.io/ieeemuj/0c98da7d-8be3-4e0e-9f32-5f82d0be40ac_AYUSH.jpg?auto=compress,format",
+   },
+  
    {
      name: "Aditi Pandey",
      position: "",
