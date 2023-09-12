@@ -93,9 +93,6 @@ const Footer = () => (
       <FooterSectionContact number="+918920287032" name="Yuvraj Vasudeva">
         +91 89202 87032
       </FooterSectionContact>
-      <FooterSectionContact number="+919427596868" name="Dev Agrawal">
-        +91 94275 96868
-      </FooterSectionContact>
       <FooterSectionContact number="+918368971283" name="Saksham Poply">
         +91 83689 71283
       </FooterSectionContact>
