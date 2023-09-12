@@ -327,6 +327,18 @@ const members = [
      image:
        "https://images.prismic.io/ieeemuj/e411ce39-5f56-4891-8961-ab7a54f046f9_saksham+poply+ras+chair+convenor.jpeg?auto=compress,format",
    },
+
+    {
+     name: "Moulshri Daroch",
+     position: "Vice-Chairperson",
+     team: "EC",
+     behance:"",
+     github:"",
+     linkedin:"",
+     instagram:"",
+     image:
+       "https://images.prismic.io/ieeemuj/8f281a1a-6e48-49ea-ba3a-9a79a23a4d08_def.png?auto=compress,format",
+   },
    
    {
      name: "Aaranay Aadi",
