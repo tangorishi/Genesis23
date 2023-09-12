@@ -318,7 +318,7 @@ const members = [
 
    {
      name: "Saksham Poply",
-     position: "Chairperson",
+     position: "Convener",
      team: "EC",
      behance:"",
      github:"",
@@ -330,15 +330,64 @@ const members = [
 
     {
      name: "Moulshri Daroch",
-     position: "Vice-Chairperson",
+     position: "Director",
      team: "EC",
      behance:"",
      github:"",
      linkedin:"",
      instagram:"",
      image:
-       "https://images.prismic.io/ieeemuj/8f281a1a-6e48-49ea-ba3a-9a79a23a4d08_def.png?auto=compress,format",
+       "https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixabay.com%2Fimages%2Fsearch%2Fuser%2F&psig=AOvVaw29_qPuKBLgqzf-iecMBtlF&ust=1664716184477000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCJDg75iNv_oCFQAAAAAdAAAAABAD",
    },
+
+    {
+     name: "Ayush Tripathi",
+     position: "Director",
+     team: "EC",
+     behance:"",
+     github:"",
+     linkedin:"",
+     instagram:"",
+     image:
+       "https://images.prismic.io/ieeemuj/446b2c09-caf5-4bbe-9fea-f580dc1a3b72_ayush+tripathi+ras+vice+chair.jpeg?auto=compress,format",
+   },
+
+   {
+     name: "Ojusav Agarwal",
+     position: "Director",
+     team: "EC",
+     behance:"",
+     github:"",
+     linkedin:"",
+     instagram:"",
+     image:
+       "https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixabay.com%2Fimages%2Fsearch%2Fuser%2F&psig=AOvVaw29_qPuKBLgqzf-iecMBtlF&ust=1664716184477000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCJDg75iNv_oCFQAAAAAdAAAAABAD",
+   },
+   {
+     name: "Happyn Raithatha",
+     position: "Director",
+     team: "EC",
+     behance:"",
+     github:"",
+     linkedin:"",
+     instagram:"",
+     image:
+       "https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixabay.com%2Fimages%2Fsearch%2Fuser%2F&psig=AOvVaw29_qPuKBLgqzf-iecMBtlF&ust=1664716184477000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCJDg75iNv_oCFQAAAAAdAAAAABAD",
+   },
+
+    {
+     name: "Asis Singh Khurana",
+     position: "Director",
+     team: "EC",
+     behance:"",
+     github:"",
+     linkedin:"",
+     instagram:"",
+     image:
+       "https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixabay.com%2Fimages%2Fsearch%2Fuser%2F&psig=AOvVaw29_qPuKBLgqzf-iecMBtlF&ust=1664716184477000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCJDg75iNv_oCFQAAAAAdAAAAABAD",
+   },
+
+   
    
    {
      name: "Aaranay Aadi",
@@ -1974,7 +2023,7 @@ const members = [
      linkedin:"",
      instagram:"",
      image:
-       "https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixabay.com%2Fimages%2Fsearch%2Fuser%2F&psig=AOvVaw29_qPuKBLgqzf-iecMBtlF&ust=1664716184477000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCJDg75iNv_oCFQAAAAAdAAAAABAD",
+       "https://images.prismic.io/ieeemuj/4eb941bd-6de1-411e-a7db-971a537d1577_Tanish+kesarwani+sb+cc.jpeg?auto=compress,format",
    },
    {
      name: "Ishika Jain",
