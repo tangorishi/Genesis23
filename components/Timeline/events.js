@@ -136,22 +136,22 @@ const events = [
   //   type: 'type',
   //   status: 'upcoming'
   // },
-  // {
-  //   keys:"9",
-  //   redirect: "99",
-  //   image:
-  //     "https://images.prismic.io/ieeemuj/6bb7e2e5-f232-4a73-be6f-fd55d76cd749_thebigshot.png?auto=compress,format",
-  //   title: "Tech Summit",
-  //   desc: "YouTubers, CEO and CTO of Web3.0(Blockchain, ML, Cybersecurity and Space exploration) based companies and scientists are gonna have a discussion of how is todays technology affect the future and talk about what the future holds in their respective domains.",
-  //   s_desc: "YouTubers, CEO and CTO of Web3.0(Blockchain, ML, Cybersecurity and Space exploration) based companies and scientists are gonna have a discussion of how is todays technology affect the future and talk about what the future holds in their respective domains.",
-  //   dates: "9th October",
-  //   time: "4pm to 6pm",
-  //   team_size: "",
-  //   prize: "T shirts and Goodies for the best questions or interaction",
-  //   form: "https://forms.gle/ygdVqhfu755FuoUUA",
-  //   venue: "TMA PAI AUDITORIUM",
-  //   type: 'type',
-  //   status: 'upcoming'
-  // },
+  {
+    keys:"9",
+    redirect: "99",
+    image:
+      "https://images.prismic.io/ieeemuj/6bb7e2e5-f232-4a73-be6f-fd55d76cd749_thebigshot.png?auto=compress,format",
+    title: "Tech Summit",
+    desc: "YouTubers, CEO and CTO of Web3.0(Blockchain, ML, Cybersecurity and Space exploration) based companies and scientists are gonna have a discussion of how is todays technology affect the future and talk about what the future holds in their respective domains.",
+    s_desc: "YouTubers, CEO and CTO of Web3.0(Blockchain, ML, Cybersecurity and Space exploration) based companies and scientists are gonna have a discussion of how is todays technology affect the future and talk about what the future holds in their respective domains.",
+    dates: "9th October",
+    time: "4pm to 6pm",
+    team_size: "",
+    prize: "T shirts and Goodies for the best questions or interaction",
+    form: "https://forms.gle/ygdVqhfu755FuoUUA",
+    venue: "TMA PAI AUDITORIUM",
+    type: 'type',
+    status: 'upcoming'
+  },
 ];
 export default events;
