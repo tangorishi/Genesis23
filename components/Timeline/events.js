@@ -50,23 +50,23 @@ const events = [
     type: 'type',
     status: 'upcoming'
   },
-  {
-    keys:"4",
-    redirect: "44",
-    image:
-      "https://images.prismic.io/ieeemuj/52a82eb6-9353-49a8-9e93-e1cdf9d5b370_Breacout.png?auto=compress,format",
-    title: "Hardware Hustle",
-    desc: "Hardware Hustle where participants come together to collaborate, innovate, and create new hardware projects or prototypes within a specified time frame. participants are usually provided with access to various tools, equipment, and resources needed to bring their ideas to life. These resources may include microcontrollers, sensors, actuators, circuit boards, 3D printers, and other hardware components. The teams often have access to mentors and experts who can provide guidance and support throughout the event. The Hardware Hackathon will be of two rounds. In a hardware hackathon, problem statements serve as challenges or prompts that participants can choose to address with their projects.",
-    s_desc:"Hardware Hustle where participants come together to collaborate, innovate, and create new hardware projects or prototypes within a specified time frame. participants are usually provided with access to various tools, equipment, and resources needed to bring their ideas to life. These resources may include microcontrollers, sensors, actuators, circuit boards, 3D printers, and other hardware components. The teams often have access to mentors and experts who can provide guidance and support throughout the event. The Hardware Hackathon will be of two rounds. In a hardware hackathon, problem statements serve as challenges or prompts that participants can choose to address with their projects.",
-    dates: "24th sept to 25th sept",
-    time: "8pm to 2pm",
-    team_size: "1-4",
-    prize: "Rs. 25,000",
-    form: "https://forms.gle/ygdVqhfu755FuoUUA",
-    venue: "",
-    type: 'type',
-    status: 'upcoming'
-  },
+  // {
+  //   keys:"4",
+  //   redirect: "44",
+  //   image:
+  //     "https://images.prismic.io/ieeemuj/52a82eb6-9353-49a8-9e93-e1cdf9d5b370_Breacout.png?auto=compress,format",
+  //   title: "Hardware Hustle",
+  //   desc: "Hardware Hustle where participants come together to collaborate, innovate, and create new hardware projects or prototypes within a specified time frame. participants are usually provided with access to various tools, equipment, and resources needed to bring their ideas to life. These resources may include microcontrollers, sensors, actuators, circuit boards, 3D printers, and other hardware components. The teams often have access to mentors and experts who can provide guidance and support throughout the event. The Hardware Hackathon will be of two rounds. In a hardware hackathon, problem statements serve as challenges or prompts that participants can choose to address with their projects.",
+  //   s_desc:"Hardware Hustle where participants come together to collaborate, innovate, and create new hardware projects or prototypes within a specified time frame. participants are usually provided with access to various tools, equipment, and resources needed to bring their ideas to life. These resources may include microcontrollers, sensors, actuators, circuit boards, 3D printers, and other hardware components. The teams often have access to mentors and experts who can provide guidance and support throughout the event. The Hardware Hackathon will be of two rounds. In a hardware hackathon, problem statements serve as challenges or prompts that participants can choose to address with their projects.",
+  //   dates: "24th sept to 25th sept",
+  //   time: "8pm to 2pm",
+  //   team_size: "1-4",
+  //   prize: "Rs. 25,000",
+  //   form: "https://forms.gle/ygdVqhfu755FuoUUA",
+  //   venue: "",
+  //   type: 'type',
+  //   status: 'upcoming'
+  // },
   {
     keys:"5",
     redirect: "55",
@@ -118,39 +118,39 @@ const events = [
     type: 'type',
     status: 'upcoming'
   },
-  {
-    keys:"8",
-    redirect: "88",
-    image:
-      "https://images.prismic.io/ieeemuj/569c4268-813a-470d-8ffa-2de20ddb32c0_Error+Terror.png?auto=compress,format",
-    title: "ErrorTerror",
-    desc: "Participants will be given a set of codes and they will have to Identify the errors in the code and rectify it to successfully run the code. It is time based so the fastest to debug wins.",
-    s_desc: "Participants will be given a set of codes and they will have to Identify the errors in the code and rectify it to successfully run the code. It is time based so the fastest to debug wins.",
-    dates: "9th October",
-    time: "3pm to 5pm",
-    team_size: "1",
-    prize: "Rs. 10,000",
-    form: "https://forms.gle/ygdVqhfu755FuoUUA",
-    venue: "MS Teams",
-    type: 'type',
-    status: 'upcoming'
-  },
-  {
-    keys:"9",
-    redirect: "99",
-    image:
-      "https://images.prismic.io/ieeemuj/6bb7e2e5-f232-4a73-be6f-fd55d76cd749_thebigshot.png?auto=compress,format",
-    title: "Tech Summit",
-    desc: "YouTubers, CEO and CTO of Web3.0(Blockchain, ML, Cybersecurity and Space exploration) based companies and scientists are gonna have a discussion of how is todays technology affect the future and talk about what the future holds in their respective domains.",
-    s_desc: "YouTubers, CEO and CTO of Web3.0(Blockchain, ML, Cybersecurity and Space exploration) based companies and scientists are gonna have a discussion of how is todays technology affect the future and talk about what the future holds in their respective domains.",
-    dates: "9th October",
-    time: "4pm to 6pm",
-    team_size: "",
-    prize: "T shirts and Goodies for the best questions or interaction",
-    form: "https://forms.gle/ygdVqhfu755FuoUUA",
-    venue: "TMA PAI AUDITORIUM",
-    type: 'type',
-    status: 'upcoming'
-  },
+  // {
+  //   keys:"8",
+  //   redirect: "88",
+  //   image:
+  //     "https://images.prismic.io/ieeemuj/569c4268-813a-470d-8ffa-2de20ddb32c0_Error+Terror.png?auto=compress,format",
+  //   title: "ErrorTerror",
+  //   desc: "Participants will be given a set of codes and they will have to Identify the errors in the code and rectify it to successfully run the code. It is time based so the fastest to debug wins.",
+  //   s_desc: "Participants will be given a set of codes and they will have to Identify the errors in the code and rectify it to successfully run the code. It is time based so the fastest to debug wins.",
+  //   dates: "9th October",
+  //   time: "3pm to 5pm",
+  //   team_size: "1",
+  //   prize: "Rs. 10,000",
+  //   form: "https://forms.gle/ygdVqhfu755FuoUUA",
+  //   venue: "MS Teams",
+  //   type: 'type',
+  //   status: 'upcoming'
+  // },
+  // {
+  //   keys:"9",
+  //   redirect: "99",
+  //   image:
+  //     "https://images.prismic.io/ieeemuj/6bb7e2e5-f232-4a73-be6f-fd55d76cd749_thebigshot.png?auto=compress,format",
+  //   title: "Tech Summit",
+  //   desc: "YouTubers, CEO and CTO of Web3.0(Blockchain, ML, Cybersecurity and Space exploration) based companies and scientists are gonna have a discussion of how is todays technology affect the future and talk about what the future holds in their respective domains.",
+  //   s_desc: "YouTubers, CEO and CTO of Web3.0(Blockchain, ML, Cybersecurity and Space exploration) based companies and scientists are gonna have a discussion of how is todays technology affect the future and talk about what the future holds in their respective domains.",
+  //   dates: "9th October",
+  //   time: "4pm to 6pm",
+  //   team_size: "",
+  //   prize: "T shirts and Goodies for the best questions or interaction",
+  //   form: "https://forms.gle/ygdVqhfu755FuoUUA",
+  //   venue: "TMA PAI AUDITORIUM",
+  //   type: 'type',
+  //   status: 'upcoming'
+  // },
 ];
 export default events;
