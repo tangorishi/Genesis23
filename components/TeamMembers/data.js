@@ -182,17 +182,17 @@ const members = [
      image:
        "https://images.prismic.io/ieeemuj/9b36e700-6aa5-433c-9572-e8092e07610e_Rishabhbass+Joint+head+of+graphic+design.jpeg?auto=compress,format",
    },
-   // {
-   //   name: "Dev Agrawal",
-   //   position: "Director",
-   //   team: "EC",
-   //   behance:"",
-   //   github:"",
-   //   linkedin:"",
-   //   instagram:"",
-   //   image:
-   //     "https://images.prismic.io/ieeemuj/29ff6235-c35d-4a13-b828-9d01c9893e6b_Dev+Agrawal.jpg?auto=compress,format",
-   // },
+   {
+     name: "Dev Agrawal",
+     position: "Director",
+     team: "EC",
+     behance:"",
+     github:"",
+     linkedin:"",
+     instagram:"",
+     image:
+       "https://images.prismic.io/ieeemuj/29ff6235-c35d-4a13-b828-9d01c9893e6b_Dev+Agrawal.jpg?auto=compress,format",
+   },
    // {
    //   name: "Divya Srivastva",
    //   position: "Director",
@@ -237,17 +237,17 @@ const members = [
      image:
        "https://images.prismic.io/ieeemuj/e42f1e1d-4ccd-43cf-aaff-425708211e16_Divya+Joint+Head+of+Programs.png?auto=compress,format",
    },
-   // {
-   //   name: "Rajveer Sanghavi",
-   //   position: "Director",
-   //   team: "EC",
-   //   behance:"",
-   //   github:"",
-   //   linkedin:"",
-   //   instagram:"",
-   //   image:
-   //     "https://images.prismic.io/ieeemuj/7cce8312-9693-4a46-bc13-0a69ca5e9fd8_Rajveer_Sanghavi_SeniorProgramsCoordinator.png?auto=compress,format",
-   // },
+   {
+     name: "Rajveer Sanghavi",
+     position: "Director",
+     team: "EC",
+     behance:"",
+     github:"",
+     linkedin:"",
+     instagram:"",
+     image:
+       "https://images.prismic.io/ieeemuj/7cce8312-9693-4a46-bc13-0a69ca5e9fd8_Rajveer_Sanghavi_SeniorProgramsCoordinator.png?auto=compress,format",
+   },
    // {
    //   name: "Rishabh Bassi",
    //   position: "Director",
@@ -292,17 +292,17 @@ const members = [
      image:
        "https://images.prismic.io/ieeemuj/cb2112fd-a2bf-4a2b-9999-3a3dc3f7402e_Aditya+Pandey_Joint+Head+of+Promotions.jpg?auto=compress,format",
    },
-   // {
-   //   name: "Vanshika S Andotra",
-   //   position: "Director",
-   //   team: "EC",
-   //   behance:"",
-   //   github:"",
-   //   linkedin:"",
-   //   instagram:"",
-   //   image:
-   //     "https://images.prismic.io/ieeemuj/3dcda231-7140-4211-87e1-5c516f19da41_Vanshika_GenSec.jpg?auto=compress,format",
-   // },
+   {
+     name: "Vanshika S Andotra",
+     position: "Director",
+     team: "EC",
+     behance:"",
+     github:"",
+     linkedin:"",
+     instagram:"",
+     image:
+       "https://images.prismic.io/ieeemuj/3dcda231-7140-4211-87e1-5c516f19da41_Vanshika_GenSec.jpg?auto=compress,format",
+   },
    {
      name: "Vidit Parashar",
      position: "Director",
@@ -313,6 +313,19 @@ const members = [
      instagram:"",
      image:
        "https://images.prismic.io/ieeemuj/626e8cbc-a750-439a-a21f-6a6123f14ab3_IMG_20230612_002853.jpg?auto=compress,format",
+   },
+
+
+   {
+     name: "Saksham Poply",
+     position: "Chairperson",
+     team: "EC",
+     behance:"",
+     github:"",
+     linkedin:"",
+     instagram:"",
+     image:
+       "https://images.prismic.io/ieeemuj/e411ce39-5f56-4891-8961-ab7a54f046f9_saksham+poply+ras+chair+convenor.jpeg?auto=compress,format",
    },
    
    {
