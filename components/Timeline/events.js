@@ -34,8 +34,8 @@ const events = [
     status: 'upcoming'
   },
   {
-    keys:"3",
-    redirect: "33",
+    keys:"6",
+    redirect: "66",
     image:
       "https://images.prismic.io/ieeemuj/0036a184-0f3c-4ffb-b317-9c52bf3ac0e1_Lights+camera+auction+%283%29.png?auto=compress,format",
     title: "Lights, Camera, Auction!",
@@ -85,8 +85,8 @@ const events = [
     status: 'upcoming'
   },
   {
-    keys:"6",
-    redirect: "66",
+    keys:"3",
+    redirect: "33",
     image:
       "https://images.prismic.io/ieeemuj/4a220d7f-9776-4ce5-8755-59ae0051490b_Networking+Night.png?auto=compress,format",
     title: "Network With WIE ",
