@@ -865,7 +865,7 @@ const members = [
        "https://images.prismic.io/ieeemuj/092869e8-77a5-49ac-971b-f6252fecc4b3_Diya+Goyal.jpg?auto=compress,format",
    },
    {
-     name: "Sai Voona",
+     name: "Praketh Sai Voona",
      position: "",
      team: "CClogistics",
      behance:"",
@@ -873,7 +873,7 @@ const members = [
      linkedin:"",
      instagram:"",
      image:
-       "https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixabay.com%2Fimages%2Fsearch%2Fuser%2F&psig=AOvVaw29_qPuKBLgqzf-iecMBtlF&ust=1664716184477000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCJDg75iNv_oCFQAAAAAdAAAAABAD",
+       "https://images.prismic.io/ieeemuj/bec4744e-e769-4e98-b6e4-62a1a0fbb496_WhatsApp+Image+2023-09-12+at+23.21.43.jpg?auto=compress,format",
    },
    {
      name: "Yashvi Neema",
