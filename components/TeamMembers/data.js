@@ -2,6 +2,29 @@
 
 const members = [
 
+   {
+     name: "Sriansh Raj",
+     position: "Convener",
+     team: "scse",
+     behance:"",
+     github:"",
+     linkedin:"",
+     instagram:"",
+     image:
+       "https://images.prismic.io/ieeemuj/5c96bb42-fab5-47ec-9d8f-6706468145dc_Sriansh+Raj_head+of+Promotions.png?auto=compress,format",
+   },
+
+  {
+     name: "Sriansh Raj",
+     position: "Convener",
+     team: "scse",
+     behance:"",
+     github:"",
+     linkedin:"",
+     instagram:"",
+     image:
+       "https://images.prismic.io/ieeemuj/5c96bb42-fab5-47ec-9d8f-6706468145dc_Sriansh+Raj_head+of+Promotions.png?auto=compress,format",
+   },
 
   {
      name: "Sriansh Raj",
