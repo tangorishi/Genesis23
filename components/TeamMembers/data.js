@@ -95,6 +95,18 @@ const members = [
        "https://images.prismic.io/ieeemuj/4bdf0e30-8fbc-4ff3-a1ab-613eedb21db2_WhatsApp+Image+2023-08-18+at+6.44.06+PM.jpeg?auto=compress,format",
    },
    {
+     name: "Saksham Poply",
+     position: "Convener",
+     team: "EC",
+     behance:"",
+     github:"",
+     linkedin:"",
+     instagram:"",
+     image:
+       "https://images.prismic.io/ieeemuj/e411ce39-5f56-4891-8961-ab7a54f046f9_saksham+poply+ras+chair+convenor.jpeg?auto=compress,format",
+   },
+   
+   {
      name: "Abhimanyu Bhasin",
      position: "Director",
      team: "ECcc",
@@ -316,17 +328,7 @@ const members = [
    },
 
 
-   {
-     name: "Saksham Poply",
-     position: "Convener",
-     team: "EC",
-     behance:"",
-     github:"",
-     linkedin:"",
-     instagram:"",
-     image:
-       "https://images.prismic.io/ieeemuj/e411ce39-5f56-4891-8961-ab7a54f046f9_saksham+poply+ras+chair+convenor.jpeg?auto=compress,format",
-   },
+   
 
     {
      name: "Moulshri Daroch",
