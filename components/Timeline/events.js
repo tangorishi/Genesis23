@@ -33,23 +33,23 @@ const events = [
     type: 'type',
     status: 'upcoming'
   },
-  // {
-  //   keys:"6",
-  //   redirect: "66",
-  //   image:
-  //     "https://images.prismic.io/ieeemuj/0036a184-0f3c-4ffb-b317-9c52bf3ac0e1_Lights+camera+auction+%283%29.png?auto=compress,format",
-  //   title: "Lights, Camera, Auction!",
-  //   desc: "Lights, Camera, Auction! Is where you can prove that you’re armed with a creative and strategic mind. It is a bid, buy, and sell competition, where the participants first place bids on their choice of items, and then try to find creative ways to sell said items to the judges.Lights, Camera, Auction! Allows participants into a unique blend of circumstances designed to stress-test their creativity.",
-  //   s_desc:"Lights, Camera, Auction! Is where you can prove that you’re armed with a creative and strategic mind. It is a bid, buy, and sell competition, where the participants first place bids on their choice of items, and then try to find creative ways to sell said items to the judges.Lights, Camera, Auction! Allows participants into a unique blend of circumstances designed to stress-test their creativity.",
-  //   dates: "22nd sept to 23rd sept",
-  //   time: "11pm to 6am",
-  //   team_size: "3",
-  //   prize: "Rs. 25,000",
-  //   form: "https://forms.gle/J6WUmXqvm6bhqd8r8",
-  //   venue: "Campus",
-  //   type: 'type',
-  //   status: 'upcoming'
-  // },
+  {
+    keys:"3",
+    redirect: "33",
+    image:
+      "https://images.prismic.io/ieeemuj/0036a184-0f3c-4ffb-b317-9c52bf3ac0e1_Lights+camera+auction+%283%29.png?auto=compress,format",
+    title: "Lights, Camera, Auction!",
+    desc: "Lights, Camera, Auction! Is where you can prove that you’re armed with a creative and strategic mind. It is a bid, buy, and sell competition, where the participants first place bids on their choice of items, and then try to find creative ways to sell said items to the judges.Lights, Camera, Auction! Allows participants into a unique blend of circumstances designed to stress-test their creativity.",
+    s_desc:"Lights, Camera, Auction! Is where you can prove that you’re armed with a creative and strategic mind. It is a bid, buy, and sell competition, where the participants first place bids on their choice of items, and then try to find creative ways to sell said items to the judges.Lights, Camera, Auction! Allows participants into a unique blend of circumstances designed to stress-test their creativity.",
+    dates: "22nd sept to 23rd sept",
+    time: "11pm to 6am",
+    team_size: "3",
+    prize: "Rs. 25,000",
+    form: "https://forms.gle/J6WUmXqvm6bhqd8r8",
+    venue: "Campus",
+    type: 'type',
+    status: 'upcoming'
+  },
    {
     keys:"6",
     redirect: "66",
