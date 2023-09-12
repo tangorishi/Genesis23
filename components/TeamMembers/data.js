@@ -172,7 +172,7 @@ const members = [
        "https://images.prismic.io/ieeemuj/64567779-1509-47c1-b7a0-b764b8fa1e6a_Avanya+Sagar-+Treasurer%281%29.png?auto=compress,format",
    },
    {
-     name: "Dev Agrawal",
+     name: "Rishabh Bassi",
      position: "Director",
      team: "EC",
      behance:"",
@@ -180,19 +180,30 @@ const members = [
      linkedin:"",
      instagram:"",
      image:
-       "https://images.prismic.io/ieeemuj/29ff6235-c35d-4a13-b828-9d01c9893e6b_Dev+Agrawal.jpg?auto=compress,format",
+       "https://images.prismic.io/ieeemuj/9b36e700-6aa5-433c-9572-e8092e07610e_Rishabhbass+Joint+head+of+graphic+design.jpeg?auto=compress,format",
    },
-   {
-     name: "Divya Srivastva",
-     position: "Director",
-     team: "EC",
-     behance:"",
-     github:"",
-     linkedin:"",
-     instagram:"",
-     image:
-       "https://images.prismic.io/ieeemuj/e42f1e1d-4ccd-43cf-aaff-425708211e16_Divya+Joint+Head+of+Programs.png?auto=compress,format",
-   },
+   // {
+   //   name: "Dev Agrawal",
+   //   position: "Director",
+   //   team: "EC",
+   //   behance:"",
+   //   github:"",
+   //   linkedin:"",
+   //   instagram:"",
+   //   image:
+   //     "https://images.prismic.io/ieeemuj/29ff6235-c35d-4a13-b828-9d01c9893e6b_Dev+Agrawal.jpg?auto=compress,format",
+   // },
+   // {
+   //   name: "Divya Srivastva",
+   //   position: "Director",
+   //   team: "EC",
+   //   behance:"",
+   //   github:"",
+   //   linkedin:"",
+   //   instagram:"",
+   //   image:
+   //     "https://images.prismic.io/ieeemuj/e42f1e1d-4ccd-43cf-aaff-425708211e16_Divya+Joint+Head+of+Programs.png?auto=compress,format",
+   // },
    {
      name: "Khushi Ganatra",
      position: "Director",
@@ -216,7 +227,7 @@ const members = [
        "https://images.prismic.io/ieeemuj/f3215139-b9ab-460e-8fbf-20d1cf1b1102_Kshiti+Malla+-+Vice+Chair.jpeg?auto=compress,format",
    },
    {
-     name: "Rajveer Sanghavi",
+     name: "Divya Srivastva",
      position: "Director",
      team: "EC",
      behance:"",
@@ -224,19 +235,30 @@ const members = [
      linkedin:"",
      instagram:"",
      image:
-       "https://images.prismic.io/ieeemuj/7cce8312-9693-4a46-bc13-0a69ca5e9fd8_Rajveer_Sanghavi_SeniorProgramsCoordinator.png?auto=compress,format",
+       "https://images.prismic.io/ieeemuj/e42f1e1d-4ccd-43cf-aaff-425708211e16_Divya+Joint+Head+of+Programs.png?auto=compress,format",
    },
-   {
-     name: "Rishabh Bassi",
-     position: "Director",
-     team: "EC",
-     behance:"",
-     github:"",
-     linkedin:"",
-     instagram:"",
-     image:
-       "https://images.prismic.io/ieeemuj/9b36e700-6aa5-433c-9572-e8092e07610e_Rishabhbass+Joint+head+of+graphic+design.jpeg?auto=compress,format",
-   },
+   // {
+   //   name: "Rajveer Sanghavi",
+   //   position: "Director",
+   //   team: "EC",
+   //   behance:"",
+   //   github:"",
+   //   linkedin:"",
+   //   instagram:"",
+   //   image:
+   //     "https://images.prismic.io/ieeemuj/7cce8312-9693-4a46-bc13-0a69ca5e9fd8_Rajveer_Sanghavi_SeniorProgramsCoordinator.png?auto=compress,format",
+   // },
+   // {
+   //   name: "Rishabh Bassi",
+   //   position: "Director",
+   //   team: "EC",
+   //   behance:"",
+   //   github:"",
+   //   linkedin:"",
+   //   instagram:"",
+   //   image:
+   //     "https://images.prismic.io/ieeemuj/9b36e700-6aa5-433c-9572-e8092e07610e_Rishabhbass+Joint+head+of+graphic+design.jpeg?auto=compress,format",
+   // },
    {
      name: "Saloni Agrawal",
      position: "Director",
@@ -259,17 +281,28 @@ const members = [
      image:
        "https://images.prismic.io/ieeemuj/4cc855d9-00c2-4ff1-aee6-88aeaa717ad5_Shekhar_senior+program+coordinator.jpg?auto=compress,format",
    },
-   {
-     name: "Vanshika S Andotra",
+    {
+     name: "Aditya Pandey",
      position: "Director",
-     team: "EC",
+     team: "ECcc",
      behance:"",
      github:"",
      linkedin:"",
      instagram:"",
      image:
-       "https://images.prismic.io/ieeemuj/3dcda231-7140-4211-87e1-5c516f19da41_Vanshika_GenSec.jpg?auto=compress,format",
+       "https://images.prismic.io/ieeemuj/cb2112fd-a2bf-4a2b-9999-3a3dc3f7402e_Aditya+Pandey_Joint+Head+of+Promotions.jpg?auto=compress,format",
    },
+   // {
+   //   name: "Vanshika S Andotra",
+   //   position: "Director",
+   //   team: "EC",
+   //   behance:"",
+   //   github:"",
+   //   linkedin:"",
+   //   instagram:"",
+   //   image:
+   //     "https://images.prismic.io/ieeemuj/3dcda231-7140-4211-87e1-5c516f19da41_Vanshika_GenSec.jpg?auto=compress,format",
+   // },
    {
      name: "Vidit Parashar",
      position: "Director",
