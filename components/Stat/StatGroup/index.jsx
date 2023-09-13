@@ -16,7 +16,7 @@ const stats = [
     statistic_subject: "Events",
   },
   {
-    statistic_number: "200000+",
+    statistic_number: "300000+",
     statistic_subject: "Prize Pool",
   },
 ];
