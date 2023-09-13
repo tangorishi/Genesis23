@@ -4,11 +4,11 @@ import { SimpleGrid } from "@chakra-ui/react";
 
 const stats = [
   {
-    statistic_number: "200+",
+    statistic_number: "2000+",
     statistic_subject: "Participants",
   },
   {
-    statistic_number: "5+",
+    statistic_number: "10+",
     statistic_subject: "Sponsors",
   },
   {
