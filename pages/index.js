@@ -37,7 +37,7 @@ import FaviCon from "../pages/public/genesis-logo-only.ico";
 export default function Home() {
   const { isOpen, onOpen, onClose } = useDisclosure();
   const [text] = useTypewriter({
-    words: ["Trippin' on Tech"],
+    words: ["TrippingOnTech"],
     loop: 1,
     typeSpeed: 300,
   })
