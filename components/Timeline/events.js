@@ -106,7 +106,7 @@ const events = [
     keys:"7",
     redirect: "77",
     image:
-      "https://images.prismic.io/ieeemuj/6bb7e2e5-f232-4a73-be6f-fd55d76cd749_thebigshot.png?auto=compress,format",
+      "https://images.prismic.io/ieeemuj/b9c47172-576c-495c-b286-fbefb99bddc3_Poster+Ballistic+%283%29-min.png?auto=compress,format",
     title: "Ballistic 3.0",
     desc: "Ballistic is where you show that the controller is just an extension of your being. Show-of your reaction times, and demonstrate unparalleled precision. With Mortal Kombat and FIFA, may ruthless be your fatalities, and your passes brim with finesse.",
     s_desc: "Ballistic is where you show that the controller is just an extension of your being. Show-of your reaction times, and demonstrate unparalleled precision. With Mortal Kombat and FIFA, may ruthless be your fatalities, and your passes brim with finesse.",
