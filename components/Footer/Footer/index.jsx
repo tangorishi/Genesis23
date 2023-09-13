@@ -57,21 +57,21 @@ const Footer = () => (
                 </FooterSectionSocialLink>
                 <FooterSectionSocialLink
                   icon={<FooterSectionSocialIcon icon={FaInstagram} />}
-                  href="https://www.instagram.com/genesismuj"
+                  href="https://instagram.com/ieee_csmuj?igshid=NjIwNzIyMDk2Mg=="
                   underline
                 >
-                    IEEE RAS
+                    IEEE CS
                  </FooterSectionSocialLink>
                 <FooterSectionSocialLink
                   icon={<FooterSectionSocialIcon icon={FaInstagram} />}
-                  href="https://www.instagram.com/genesismuj"
+                  href="https://instagram.com/ieee.wiemuj?igshid=NjIwNzIyMDk2Mg=="
                   underline
                 > 
                   IEEE WIE
                 </FooterSectionSocialLink>
                 <FooterSectionSocialLink
                   icon={<FooterSectionSocialIcon icon={FaInstagram} />}
-                  href="https://www.instagram.com/genesismuj"
+                  href="https://instagram.com/ieeemuj?igshid=NjIwNzIyMDk2Mg=="
                   underline
                 >
                   IEEE SB
