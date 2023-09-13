@@ -3,7 +3,7 @@ const events = [
     keys:"1",
     redirect: "11",
     image:
-      "https://images.prismic.io/ieeemuj/bf314cf8-b946-473c-95cd-2cc1477925ad_Ballistic+2.0.png?auto=compress,format",
+      "https://images.prismic.io/ieeemuj/167aa084-16c4-40de-9d22-604bd2390e37_breacout-with-qr.png?auto=compress,format",
     title: "Breacout 4.0",
     desc: "Join BREACOUT 4.0, part of GENESIS 3.0, for an epic Marvel-themed treasure hunt! Gather a team of four and tackle cryptic clues across our campus. Test your problem-solving and teamwork for a chance to win 25,000 INR and more!",
     s_desc: "Join BREACOUT 4.0, part of GENESIS 3.0, for an epic Marvel-themed treasure hunt! Gather a team of four and tackle cryptic clues across our campus. Test your problem-solving and teamwork for a chance to win 25,000 INR and more!",
