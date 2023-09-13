@@ -90,7 +90,7 @@ export default function Home() {
                 controls={true}
               >
                 <source
-                  src="https://video-previews.elements.envatousercontent.com/h264-video-previews/8bc2eb2a-6288-46a0-9873-b1ffeefc00dd/37359639.mp4"
+                  src="https://prismic-io.s3.amazonaws.com/ieeemuj/b3e3c24e-60a6-4b1d-809a-231996c8c58f_teaser+fix+%284%29+%281%29+%281%29.mp4"
                   type="video/mp4"
                 />
               </video>
