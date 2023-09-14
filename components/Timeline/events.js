@@ -180,7 +180,7 @@ const events = [
     redirect: "33",
     image:
       "https://images.prismic.io/ieeemuj/d9eedf50-249b-4404-967b-25c48494cf28_code_poster.png?auto=compress,format",
-    title: "CODE-IT-ON",
+    title: "CODE-IT-ON 2.0",
     desc: "Code It On is an exciting codeathon event where participants from diverse backgrounds and skill levels come together to showcase their coding prowess. This competition challenges participants to solve real-world problems through creative and innovative coding solutions. Whether you are a seasoned developer or just starting your coding journey, Code It On offers a platform to learn, collaborate, and compete in a friendly and supportive environment. Join usfor a coding adventure where you can test your skills, networkwith fellow enthusiasts, and win exciting prizes!",
     s_desc:"Code It On is an exciting codeathon event where participants from diverse backgrounds and skill levels come together to showcase their coding prowess. This competition challenges participants to solve real-world problems through creative and innovative coding solutions. Whether you are a seasoned developer or just starting your coding journey, Code It On offers a platform to learn, collaborate, and compete in a friendly and supportive environment. Join usfor a coding adventure where you can test your skills, networkwith fellow enthusiasts, and win exciting prizes!",
     dates: "22nd sept",
