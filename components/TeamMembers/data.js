@@ -4,7 +4,7 @@ const members = [
 
    {
      name: "Dr Sandeep Chaurasia",
-     position: "Director SCSE",
+     position: "Director, School of Computer Science and Engineering ",
      team: "scse",
      behance:"",
      github:"",
@@ -16,7 +16,7 @@ const members = [
 
   {
      name: "Dr Neha Chaudhary",
-     position: "HOD CSE",
+     position: "Head of Department- Computer Science and Engineering ",
      team: "scse",
      behance:"",
      github:"",
@@ -38,7 +38,7 @@ const members = [
    },
   {
      name: "Dr Sunita Singhal",
-     position: "Faculty Coordinator",
+     position: "Faculty Coordinator- IEEE WIE MUJ",
      team: "scse",
      behance:"",
      github:"",
@@ -49,7 +49,7 @@ const members = [
    },
   {
      name: "Dr Dinesh Yadav",
-     position: "Faculty Coordinator",
+     position: "Faculty Coordinator- IEEE RAS MUJ",
      team: "scse",
      behance:"",
      github:"",
