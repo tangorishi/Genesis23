@@ -152,7 +152,7 @@ const TeamMembers = () => {
         letterSpacing={5}
         mx={"15vw"}
       >
-        SCSE
+        School of Computer Science and Engineering
       </Text>
       <SimpleGrid columns={[1, 1, 2, 3, 4]} spacingX={"1rem"} px={"12vw"}>
         {members.map((res) =>
