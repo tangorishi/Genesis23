@@ -12,7 +12,7 @@ const stats = [
     statistic_subject: "Sponsors",
   },
   {
-    statistic_number: "22nd-25th september",
+    statistic_number: "22nd-25th sept",
     statistic_subject: "Dates",
   },
   {
