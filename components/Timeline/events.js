@@ -27,7 +27,7 @@ const events = [
     dates: "20 th September ",
     time: "6-8:30 pm",
     team_size: "1",
-    prize: "Rs. 15,000",
+    prize: "15,000",
     form: "https://forms.gle/hZfri5Hy6kqabBni8",
     venue: "ONLINE",
     type: 'type',
