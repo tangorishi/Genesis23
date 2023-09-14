@@ -111,6 +111,8 @@ export default function Home() {
             <Stack spacing={6} w={"full"} align={"center"}>
                <Text textAlign={"center"} fontWeight={"bold"} textColor={"white"} fontSize={"3xl"}>Largest Tech Fest of MUJ</Text>
                <Text textAlign={"center"} fontWeight={"bold"} textColor={"white"} fontSize={"4xl"}>{text}</Text>
+  <Text textAlign={"center"} fontWeight={"bold"} textColor={"white"} fontSize={"3xl"}>Registrations Now Open</Text>
+  
             </Stack>
           </Flex>
        </Stack>
