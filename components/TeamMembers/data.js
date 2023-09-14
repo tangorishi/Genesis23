@@ -3,7 +3,7 @@
 const members = [
 
    {
-     name: "Dr Sandeep Chaurasia",
+     name: "Dr. Sandeep Chaurasia",
      position: "Director, School of Computer Science and Engineering ",
      team: "scse",
      behance:"",
@@ -12,6 +12,17 @@ const members = [
      instagram:"",
      image:
        "https://images.prismic.io/ieeemuj/ff340fd3-ebdb-462f-9bad-629931fbda14_Director+Pic+copy.jpg?auto=compress,format",
+   },
+    {
+     name: "Dr. Sumit Srivastava",
+     position: "Director, School of  Information Technology ",
+     team: "scse",
+     behance:"",
+     github:"",
+     linkedin:"",
+     instagram:"",
+     image:
+       "https://images.prismic.io/ieeemuj/24718611-a241-4f94-b452-c891f45d58d2_Sumit_Srivastava+department+of+it.jpg?auto=compress,format",
    },
 
   {
@@ -24,6 +35,17 @@ const members = [
      instagram:"",
      image:
        "https://images.prismic.io/ieeemuj/58ac5f52-21c1-4c8d-acf2-443c5da1b13f_Neha+Maam+copy.jpg?auto=compress,format",
+   },
+     {
+     name: "Santosh Kumar Vishwakarma",
+     position: "Head of Department- Computer Science and Engineering(AIML) ",
+     team: "scse",
+     behance:"",
+     github:"",
+     linkedin:"",
+     instagram:"",
+     image:
+       "https://images.prismic.io/ieeemuj/e9326429-d4f7-46ab-98e6-7bffa56607a3_Santosh_Kumar_Vishwakarma.jpg?auto=compress,format",
    },
   {
      name: "Dr Mahesh Jangid",
