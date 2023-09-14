@@ -27,14 +27,14 @@ const members = [
    },
   {
      name: "Dr Mahesh Jangid",
-     position: "Faculty Coordinator",
+     position: "Branch Counselor & faculty coordinator, IEEE student branch",
      team: "scse",
      behance:"",
      github:"",
      linkedin:"",
      instagram:"",
      image:
-       "https://images.prismic.io/ieeemuj/64585e6a-3617-4ff0-9668-4754b233c7ef_Mahesh_Jangid.jpg?auto=compress,format",
+       "https://images.prismic.io/ieeemuj/d53af97d-f834-4c26-ae0d-6822b5548501_Mahesh+sir.jpeg?auto=compress,format",
    },
   {
      name: "Dr Sunita Singhal",
