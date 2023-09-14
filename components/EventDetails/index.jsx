@@ -33,7 +33,7 @@ const EventDetails = (props) => {
               >
                 <b>Description:</b> {props.desc}
               </Text>
-        <Text fontSize={["md", "xl", "2xl"]}
+{/*         <Text fontSize={["md", "xl", "2xl"]}
                 py={"4"}
                 pt={"6"}
                 maxW={"800"}
@@ -41,7 +41,7 @@ const EventDetails = (props) => {
                 letterSpacing={3.0}
                 style={{"text-align": "left"}}>
                   <b>Team Size:</b> {props.team_size}
-        </Text>
+        </Text> */}
         <Text fontSize={["md", "xl", "2xl"]}
                 py={"4"}
                 pt={"6"}
