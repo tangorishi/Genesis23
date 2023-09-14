@@ -88,7 +88,7 @@ const events = [
     keys:"5",
     redirect: "55",
     image:
-      "https://images.prismic.io/ieeemuj/dcdb91b1-f007-41f5-9d12-89a470722616_CSSCombatFinal+%281%29.jpg?auto=compress,format",
+      "https://images.prismic.io/ieeemuj/e5a419cd-6524-4d70-b376-3bb0811b0f65_css-final.png?auto=compress,format",
     title: "CSS COMBAT",
     desc: "CSS combat is a competitive coding challenge in which participants showcase their CSS skills by solving design-related problems or creating specific web design elements efficiently and effectively. In this we have three rounds. The first two involve replicating designs, while the final round requires them to create a personal portfolio website, showcasing their CSS skills.",
     s_desc: "CSS combat is a competitive coding challenge in which participants showcase their CSS skills by solving design-related problems or creating specific web design elements efficiently and effectively. In this we have three rounds. The first two involve replicating designs, while the final round requires them to create a personal portfolio website, showcasing their CSS skills.",
