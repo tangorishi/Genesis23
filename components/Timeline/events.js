@@ -20,7 +20,7 @@ const events = [
     keys:"2",
     redirect: "22",
     image:
-      "https://images.prismic.io/ieeemuj/55435d5b-1b42-4cdb-9e4a-127c04a67ec5_Poster+Digital+Graffiti.png?auto=compress,format",
+      "https://images.prismic.io/ieeemuj/8b6ec69e-d5b7-40bb-865a-99fa5dda4b52_Poster+Digital+Graffiti.png?auto=compress,format",
     title: "DIGITAL GRAFFITI",
     desc: "Participate in our creative digital endeavor, a main event designed to tap into your artistic imagination. Here's how it works: We'll provide you with a proverb or phrase, and your task is to express your interpretation through a unique graffiti creation. Alongside your artwork, craft a concise paragraph describing the inspiration behind your piece. Infuse a touch of GENESIS into your graffiti to tie it into our event theme. Plus, it's a platform-independent competition, so you can showcase your talent using any digital platform of your choice. Get ready to let your creativity run wild!",
     s_desc:"Participate in our creative digital endeavor, a main event designed to tap into your artistic imagination. Here's how it works: We'll provide you with a proverb or phrase, and your task is to express your interpretation through a unique graffiti creation. Alongside your artwork, craft a concise paragraph describing the inspiration behind your piece. Infuse a touch of GENESIS into your graffiti to tie it into our event theme. Plus, it's a platform-independent competition, so you can showcase your talent using any digital platform of your choice. Get ready to let your creativity run wild!",
