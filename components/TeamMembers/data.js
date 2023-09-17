@@ -666,6 +666,17 @@ const members = [
      image:
        "https://images.prismic.io/ieeemuj/53863383-fd04-4283-8d9e-0b2615260fe1_Utkarsh+Shukla.jpg?auto=compress,format",
    },
+   {
+     name: "Rishi Joshi",
+     position: "",
+     team: "CCwebdev",
+     behance:"",
+     github:"",
+     linkedin:"",
+     instagram:"",
+     image:
+       "https://images.prismic.io/ieeemuj/a08cac1d-9cc1-4bf6-8ccc-9181760b3b4c_RISHI+JOSHI.jpg?auto=compress,format",
+   },
 
       {
      name: " Bhavya Arora",
@@ -678,17 +689,7 @@ const members = [
      image:
        "https://images.prismic.io/ieeemuj/5606e275-2efc-479c-af1e-eb30071673c4_WhatsApp+Image+2023-07-14+at+10.04.27+AM.jpeg?auto=compress,format",
    },
-   {
-     name: "Rishi Joshi",
-     position: "",
-     team: "CCwebdev",
-     behance:"",
-     github:"",
-     linkedin:"",
-     instagram:"",
-     image:
-       "https://images.prismic.io/ieeemuj/a08cac1d-9cc1-4bf6-8ccc-9181760b3b4c_RISHI+JOSHI.jpg?auto=compress,format",
-   },
+   
    {
      name: "Kushagra Saxena",
      position: "",
