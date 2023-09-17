@@ -37,7 +37,7 @@ const members = [
        "https://images.prismic.io/ieeemuj/58ac5f52-21c1-4c8d-acf2-443c5da1b13f_Neha+Maam+copy.jpg?auto=compress,format",
    },
      {
-     name: "Santosh Kumar Vishwakarma",
+     name: "Dr Santosh Kumar Vishwakarma",
      position: "Head of Department- Computer Science and Engineering(AIML) ",
      team: "scse",
      behance:"",
