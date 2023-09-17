@@ -199,34 +199,10 @@ const events = [
     image:
       "https://images.prismic.io/ieeemuj/1a0ae2f1-5108-4e60-9624-e5220b52214c_Poster+Tech+Summit+%281%29.png?auto=compress,format",
     title: "Tech Summit",
-    desc: " Are college conundrums turning your tech journey into a maze, and you're in dire need of some high-tech guidance? 
+    desc: "IEEE MUJ presents Tech Summit 3.0, a two-hour knowledge-packed event designed to help college students navigate the complexities of their tech journey. The summit features a distinguished panel of experts, including Sandeep Jain, the Founder & CEO of GeeksforGeeks; Aditi Gupta, Founder & CEO of TechTip24; Tejas Patil, an accomplished entrepreneur and TEDx Speaker; and Paritosh Anand, an entrepreneurial figure and content creator. This event promises to provide valuable insights and guidance for those seeking clarity and direction in the world of technology and academia. ",
+    s_desc:"IEEE MUJ presents Tech Summit 3.0, a two-hour knowledge-packed event designed to help college students navigate the complexities of their tech journey. The summit features a distinguished panel of experts, including Sandeep Jain, the Founder & CEO of GeeksforGeeks; Aditi Gupta, Founder & CEO of TechTip24; Tejas Patil, an accomplished entrepreneur and TEDx Speaker; and Paritosh Anand, an entrepreneurial figure and content creator. This event promises to provide valuable insights and guidance for those seeking clarity and direction in the world of technology and academia."
 
- IEEE MUJ has got your back with,
-
-  TECH SUMMIT 3.0 
-
-Set sail on a two-hour voyage of knowledge and exploration with our esteemed panelists, each a legend in their own technical domain. 
-
- Introducing Our Illustrious Panel: 
-
-   Sandeep Jain : Founder & CEO of GeeksforGeeks 
-   Aditi Gupta : Founder & CEO of TechTip24 
-   TejasPatil : Entrepreneur and TEDx Speaker 
-   Paritosh Anand : Entrepreneur and Content Creator",
-    s_desc:" Are college conundrums turning your tech journey into a maze, and you're in dire need of some high-tech guidance? 
-
- IEEE MUJ has got your back with,
-
-  TECH SUMMIT 3.0 
-
-Set sail on a two-hour voyage of knowledge and exploration with our esteemed panelists, each a legend in their own technical domain. 
-
- Introducing Our Illustrious Panel: 
-
-   Sandeep Jain : Founder & CEO of GeeksforGeeks 
-   Aditi Gupta : Founder & CEO of TechTip24 
-   TejasPatil : Entrepreneur and TEDx Speaker 
-    Paritosh Anand : Entrepreneur and Content Creator",
+  
     dates: "23rd September",
     time: "4.30Pm-6.30Pm",
     team_size: "1",
