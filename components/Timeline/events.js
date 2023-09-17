@@ -208,7 +208,7 @@ const events = [
     team_size: "1",
     prize: "",
     form: "https://forms.gle/E4djxBxPSLAJWqDt5",
-    venue: "Online",
+    venue: "TMA PAI AUDITORIUM",
     type: 'type',
     status: 'upcoming'
   },
