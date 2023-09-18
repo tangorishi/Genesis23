@@ -12,7 +12,6 @@ import {
 
 export default function Card(props) {
   const status = props.status;
-   const prize = props.prize; 
   var status_color;
   if (status === "ongoing") status_color = "green";
   else if (status === "completed") status_color = "red";
