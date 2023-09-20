@@ -213,6 +213,25 @@ const events = [
     status: 'upcoming'
   },
 
+   {
+    keys:"3",
+    redirect: "33",
+    image:
+      "https://images.prismic.io/ieeemuj/f59c1ad1-4577-4378-b5ce-f058541f4f0b_dec.png?auto=compress,format",
+    title: "IeeeXDecathlon",
+    desc: "Join us for a fun and exciting evening on the Road to Genesis 3.0, organized by DECATHLON. We have only 2 more days to go until Genesis 3.0! Here's what you can look forward to: DECATHLON Futsal Dodge Ball Tug of War. Date: Today Time: 7:45 PM Location: TedX Chowk. Don't miss out on the action! Register now using the link below to secure your spot. [Registration Link]. See you there! Team Genesis 3.0 IEEE MUJ.",
+    s_desc:"Join us for a fun and exciting evening on the Road to Genesis 3.0, organized by DECATHLON. We have only 2 more days to go until Genesis 3.0! Here's what you can look forward to: DECATHLON Futsal Dodge Ball Tug of War. Date: Today Time: 7:45 PM Location: TedX Chowk. Don't miss out on the action! Register now using the link below to secure your spot. [Registration Link]. See you there! Team Genesis 3.0 IEEE MUJ.",
+
+  
+    dates: "20th September",
+    time: "7:45pm onwards",
+    team_size: "N/A",
+    prize: "",
+    form: "https://forms.gle/hjnKMgidg2siGkvf7",
+    venue: "TedX Chowk",
+    type: 'type',
+    status: 'upcoming'
+  },
 
   
 ];
