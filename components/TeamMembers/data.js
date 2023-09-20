@@ -1375,7 +1375,7 @@ const members = [
      linkedin:"",
      instagram:"",
      image:
-       "https://images.prismic.io/ieeemuj/c8218757-b33d-4137-b943-1b1e9aafa0bf_Mohini+Vashisth.jpg?auto=compress,format",
+       "https://images.prismic.io/ieeemuj/26e69faa-67e9-4abd-90c9-1fce36f4546d_WhatsApp+Image+2023-09-18+at+15.24.31.jpg?auto=compress,format",
    },
    {
      name: "Rohan Arora",
@@ -1433,7 +1433,7 @@ const members = [
        "https://images.prismic.io/ieeemuj/8eac9e73-28e6-4b1e-a992-a162ab5afa48_20230623_195549+-+Jatan+bhatt.jpg?auto=compress,format",
    },
    {
-     name: "Shreya Saighal",
+     name: "Shreya Saihgal",
      position: "",
      team: "CCgraphicdesign",
      behance:"",
@@ -1441,7 +1441,7 @@ const members = [
      linkedin:"",
      instagram:"",
      image:
-       "https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixabay.com%2Fimages%2Fsearch%2Fuser%2F&psig=AOvVaw29_qPuKBLgqzf-iecMBtlF&ust=1664716184477000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCJDg75iNv_oCFQAAAAAdAAAAABAD",
+       "https://images.prismic.io/ieeemuj/69cb8de1-7612-4e19-a3c5-1174e4a3c2e9_WhatsApp+Image+2023-08-08+at+22.10.00.jpg?auto=compress,format",
    },
    {
      name: "Kanisha Bansal",
@@ -1597,7 +1597,7 @@ const members = [
      linkedin:"",
      instagram:"",
      image:
-       "https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixabay.com%2Fimages%2Fsearch%2Fuser%2F&psig=AOvVaw29_qPuKBLgqzf-iecMBtlF&ust=1664716184477000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCJDg75iNv_oCFQAAAAAdAAAAABAD",
+       "https://images.prismic.io/ieeemuj/f47720c6-c5e4-4111-83f2-314a66bb201a_Screenshot+2023-09-17+at+11.16.11+PM.png?auto=compress,format",
    },
    {
      name: "Manushree Pande",
@@ -1663,7 +1663,7 @@ const members = [
      linkedin:"",
      instagram:"",
      image:
-       "https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixabay.com%2Fimages%2Fsearch%2Fuser%2F&psig=AOvVaw29_qPuKBLgqzf-iecMBtlF&ust=1664716184477000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCJDg75iNv_oCFQAAAAAdAAAAABAD",
+       "https://images.prismic.io/ieeemuj/756050b7-1cfe-4815-890a-bcafeaba8aa2_IMG_0461.JPG?auto=compress,format",
    },
    {
      name: "Aryan Jain",
