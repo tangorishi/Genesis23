@@ -1430,7 +1430,7 @@ const members = [
      linkedin:"",
      instagram:"",
      image:
-       "https://images.prismic.io/ieeemuj/ff957700-0888-4dac-95a8-e51cceecebf5_WhatsApp+Image+2023-09-23+at+2.07.53+AM.jpeg?auto=compress,format",
+       "https://images.prismic.io/ieeemuj/53fd5c8e-dfe1-42a3-b6d0-e2b2071437e4_WhatsApp+Image+2023-09-23+at+2.07.53+AM.jpeg?auto=compress,format",
    },
    {
      name: "Jatan Prag Bhatt",
