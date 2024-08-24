@@ -1421,6 +1421,17 @@ const members = [
      image:
        "https://images.prismic.io/ieeemuj/f6cfd31c-8a90-4561-9baa-d041089103c7_Gouri+Sharma-+Joint+Head+of+Graphic+Design.jpg?auto=compress,format",
    },
+    {
+     name: "Utkarsh Kalra",
+     position: "",
+     team: "CCgraphicdesign",
+     behance:"",
+     github:"",
+     linkedin:"",
+     instagram:"",
+     image:
+       "https://images.prismic.io/ieeemuj/53fd5c8e-dfe1-42a3-b6d0-e2b2071437e4_WhatsApp+Image+2023-09-23+at+2.07.53+AM.jpeg?auto=compress,format",
+   },
    {
      name: "Jatan Prag Bhatt",
      position: "",
